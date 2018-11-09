@@ -3,7 +3,7 @@ By Simona Vasiliauskaite G00263352
 
 ## An introduction to numpy.random package in Python
 
-![Numpy_Logo](/numpy.random/numpy.jpeg)
+![Numpy_Logo]([[File:NumPy logo.svg|thumb|NumPy logo]])
 
 The jupyter notebook contains detailed explanation of following assignment objectives:
 
