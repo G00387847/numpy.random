@@ -1,9 +1,9 @@
+![Logos](![Logos](https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/jupyter_python_numpy.width-808.png)
+
 # Practical Assignment for Programming in Data Analysis 2018
 By Simona Vasiliauskaite G00263352
 
 ## An introduction to numpy.random package in Python
-
-![NumpyLogo](http://www.fossreview.com/2017/07/python-numpy-for-linear-algebra-and-machine-learning.html)
 
 The jupyter notebook contains detailed explanation of following assignment objectives:
 
@@ -12,10 +12,9 @@ The jupyter notebook contains detailed explanation of following assignment objec
 3. Explain the use and purpose of at least five “Distributions” functions.
 4. Explain the use of seeds in generating pseudorandom numbers.
 
-To run this jupyter notebook file you will need to install Python preferably through Anaconda distribution to benefit from 720 packages that can easily be installed with Anaconda's conda, a package, dependency, and environment manager. 
+To run this jupyter notebook file you will need to install Python preferably through [Anaconda](https://www.anaconda.com/download/) distribution to benefit from 720 packages that can easily be installed with Anaconda's conda, a package, dependency, and environment manager. 
 
 To open jupyter notebook open command line and enter:
-
 `jupyter notebook`
 
 
