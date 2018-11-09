@@ -1,4 +1,4 @@
-![Logos](![Logos](https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/jupyter_python_numpy.width-808.png)
+![Logos](https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/jupyter_python_numpy.width-808.png)
 
 # Practical Assignment for Programming in Data Analysis 2018
 By Simona Vasiliauskaite G00263352
