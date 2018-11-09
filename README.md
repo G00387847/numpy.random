@@ -10,3 +10,10 @@ The jupyter notebook contains detailed explanation of following assignment objec
 3. Explain the use and purpose of at least five “Distributions” functions.
 4. Explain the use of seeds in generating pseudorandom numbers.
 
+To run this jupyter notebook file you will need to install Python preferably through Anaconda distribution so you benefit from 720 packages that can easily be installed with Anaconda's conda, a package, dependency, and environment manager. 
+
+To open jupyter notebook open command line and enter:
+
+jupyter notebook
+
+
